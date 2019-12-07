@@ -1,0 +1,24 @@
+{
+  "npmScope": "photobooth",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "photo-booth-e2e": {
+      "tags": []
+    },
+    "photo-booth": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interfaces": {
+      "tags": []
+    }
+  }
+}
